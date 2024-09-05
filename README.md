@@ -1,15 +1,15 @@
-# ¡Hola, soy ! 👋👨‍💻
+# ¡Hola, soy Javier! 👋👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1F7&background=FF512800&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas;Programador+Senior;Amante+del+Café+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1F7&background=FF512800&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas;Programador;Amante+del+Café+☕" alt="Typing SVG" />
 </div>
 
 ## Sobre mí 🚀
 
-Soy un apasionado Ingeniero de Sistemas con experiencia en desarrollo de software. Mi código es tan robusto como mi bigote, y mi café tan oscuro como mi tema favorito de IDE.
+Soy un apasionado Ingeniero de Sistemas con experiencia en desarrollo de software.
 
-- 🔭 Actualmente trabajando en: Sistemas de IA para procesamiento de lenguaje natural
-- 🌱 Aprendiendo: Computación cuántica y su aplicación en criptografía
+- 🔭 Actualmente trabajando en: Desarrollo de software
+- 🌱 Aprendiendo: Desarrollo Movile
 - 👯 Buscando colaborar en: Proyectos open source de alto impacto
 - 💬 Pregúntame sobre: JavaScript, Python, React, Node.js, y arquitectura de sistemas
 
@@ -60,11 +60,6 @@ Soy un apasionado Ingeniero de Sistemas con experiencia en desarrollo de softwar
   <img src="https://komarev.com/ghpvc/?username=tuusuario&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  
-  ☕ [¡Invítame a un café!](https://www.buymeacoffee.com/tuusuario)
-  
-</div>
 <!--
 **JavierDelgadoFarro/JavierDelgadoFarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
